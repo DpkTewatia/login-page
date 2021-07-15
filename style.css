@@ -101,6 +101,15 @@ section .container .formbox .inputbox input[type="submit"]{
 section .container .formbox .remmber{
 margin-bottom: 10px;
 color:#607d8b ;
-font-weight:600;
-
+font-weight:400;
+font-size: 14px;
 }
+
+section .container .formbox .inputbox p{
+color: #607d8b ;
+}
+section .container .formbox .inputbox p a {
+    color: #607d8b ;
+    }
+
+
